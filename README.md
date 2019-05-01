@@ -2,9 +2,9 @@
 
 This repository contains a series of exercises on introductory Python. Through completing the exercises, developers will learn the fundamentals of the language while gaining some insight into the culture common to Python developers. Gems are also scattered throughout the exercises, providing suggestions for helpful utilities or features not necessary to solve the basics.
 
-Before diving into the exercises I encourage any eager adventure to read through this document (or, better yet, discuss the contents with a Pythonist) to gain a high level summary of the language and some of the common themes to watch out for.
-
 ## Summary of Python
+
+I encourage any eager adventurer to discuss this list a Pythonist to gain a high level summary of the language and some of the common themes to watch out for before diving into the exercises.
 
 * Python is a high-level, interpretted language. 
 * Primary aims include:
@@ -21,6 +21,7 @@ Before diving into the exercises I encourage any eager adventure to read through
   * design by contract
   * logic
  * Should be one and only one *obvious* way to do things
+  * But it won't stop you either
 
 ## Outline
 

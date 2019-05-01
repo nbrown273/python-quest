@@ -37,43 +37,18 @@ I encourage any eager adventurer to discuss this list with a Pythonist to gain a
 
 ## Recommended Module Order
 1) Components
-    1) Tools
-        1) Shell
-        2) IDE
+    1) Tools (No Exercises)
     2) Primitives
         1) Mathematics
         2) Conditions
         3) Strings
-        4) Iterables
-    3) Functions
-        1) Lambdas
-        2) Define
-        3) Decorators
-    4) OOP
-        1) Classes
-        2) Objects
-        3) State
-        4) Methods
+    3) Iterables
+    4) Functions
+    5) OOP
 2) Processes
-    1) Conditionals
-        1) if-else
-        2) ternary
-    2) Looping
-        1) for
-        2) while
-        3) comprehensions
-        4) generators
-    3) File IO
-    4) Exception Handling
-3) Utilities (any order, see official docs: https://docs.python.org/3/library/)
-    * Regular Expressions
-    * Random Sampling
-    * Arbitrary Precision
-    * Serialization
-    * Email
-    * File Formats (csv, json, xml, html)
-    * Operating System
-    * CLI Arguments
+    1) Control Flow
+    2) Comprehensions
+3) Final Challenge
 
     
 

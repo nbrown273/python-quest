@@ -1,6 +1,6 @@
 # Guido's Python and the Quest for the Holy Code
 
-This repository contains a series of exercises on introductory Python. Through completing the exercises, developers will learn the fundamentals of the language while gaining some insight into the culture common to Python developers. Gems are also scattered throughout the exercises, providing suggestions for helpful utilities or features not necessary to solve the basics.
+[INSERT DESCRIPTION OF REFINEMENT PROCESS]
 
 ## Summary of Python
 
